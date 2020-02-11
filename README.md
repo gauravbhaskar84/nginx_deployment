@@ -5,7 +5,7 @@ kubectl apply -f nginx_deployment.yaml
 kubectl apply -f nginx_node_port.yaml
 kubectl apply -f nginx-ingress.yaml
 ```
-### Test the Nginx nginx_deployment
+### Test the Nginx Deployment
 
 http://127.0.0.1 or
 
